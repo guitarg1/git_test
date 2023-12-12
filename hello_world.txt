@@ -1,0 +1,1 @@
+This is all just to see how to use command line
